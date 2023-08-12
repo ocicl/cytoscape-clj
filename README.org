@@ -2,9 +2,8 @@
 
 Cytoscape widget for common-lisp-jupyter
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/yitzchak/cytoscape-clj.git   |
-| commit  | 66120ba  |
-| systems | cytoscape-clj |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/yitzchak/cytoscape-clj.git |
+| commit  | d6bbae9                                           |
+| systems | cytoscape-clj                                     |
+|---------+---------------------------------------------------|
