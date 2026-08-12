@@ -7,4 +7,4 @@ Cytoscape widget for common-lisp-jupyter
 | commit  | dbabd69                                           |
 | systems | cytoscape-clj                                     |
 |---------+---------------------------------------------------|
- 
+  
